@@ -1,0 +1,4 @@
+1)using (pygame) laibrary
+2)using sys laibrary
+3)using random laibrary
+4)using time laibrary
