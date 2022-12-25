@@ -1,41 +1,9 @@
-![simul_daten_v02](https://user-images.githubusercontent.com/90656786/209056492-dfa032e9-4c33-4b33-b7ea-3f971ee9ddf0.gif)
-<h1 align="center">Hi 👋, I'm AHMED RAMADAN</h1>
-<h3 align="center">PYTHON DEVOLOPER 🥳🥵</h3>
+Snake is a sub-genre of action video games where the player maneuvers the end of a growing line, often themed as a snake. The player must keep the snake from colliding with both other obstacles and itself, which gets harder as the snake lengthens. The concept originated in the 1976 two-player arcade video game Blockade from Gremlin Industries, and the ease of implementation has led to hundreds of versions (some of which have the word snake or worm in the title) for many platforms. 1982's Tron arcade game, based on the film, includes snake gameplay for the single-player Light Cycles segment. After a variant was preloaded on Nokia mobile phones in 1998, there was a resurgence of interest in snake games as it found a larger audience.
+![Screenshot 2022-12-25 030354](https://user-images.githubusercontent.com/90656786/209454393-d789a77e-a250-46c0-9b2c-669df824c528.png)
+![Screenshot 2022-12-25 031007](https://user-images.githubusercontent.com/90656786/209454407-bac5dbd1-d9a5-42bc-aff1-1c24ccdf36a0.png)
+The player controls a dot, square, or object on a bordered plane. As it moves forward, it leaves a trail behind, resembling a moving snake. In some games, the end of the trail is in a fixed position, so the snake continually gets longer as it moves. In another common scheme, the snake has a specific length, so there is a moving tail a fixed number of units away from the head. The player loses when the snake runs into the screen border, other obstacle, or itself.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=killer-ramadan" alt="killer-ramadan" /></a> </p>
+Gameplay comes in two major variants:
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 👯 CALLED ME **RAMADAN**
-
-- 🤝 if you looking for help **LOOK DOWN**
-  
-- 💬 ASK ME
-
-- 👨‍💻 All of my projects are available here
-
-- ⚡ Fun Fact **IM_ALONE 🙈**
-
-- 📫 HOW TO CONTACT WITH ME 
-<!DOCTYPE html>
-<html>
-<body>
-
-<h2>GMAIL</h2>
-<a href="http://mail.google.com/mail/u/0/#inbox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://mail.google.com/mail/u/0/#inbox" height="30" width="40" /></a>
-</body>
-</html>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ahmed-ramadan-9b5a32221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-ramadan-9b5a32221/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100013046262798" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100013046262798" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCtahze-fgmITrOygH-iGDmA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uctahze-fgmitroygh-igdma" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=killer-ramadan&show_icons=true&locale=en&layout=compact" alt="killer-ramadan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=killer-ramadan&" alt="killer-ramadan" /></p>
+In the first, which is most often a two-player game, there are multiple snakes on the playfield. Each player attempts to block the other so the opponent runs into an existing trail and loses. Surround for the Atari VCS is an example of this type. The Light Cycles segment of the Tron arcade game is a single-player version where the other "snakes" are AI controlled.
+In the second variant, a sole player attempts to eat items by running into them with the head of the snake. Each item eaten makes the snake longer, so avoiding collision with the snake becomes progressively more difficult. Examples: Nibbler, Snake Byte.
