@@ -1,3 +1,4 @@
+# SNAKE-GAME
 Snake is a sub-genre of action video games where the player maneuvers the end of a growing line, often themed as a snake. The player must keep the snake from colliding with both other obstacles and itself, which gets harder as the snake lengthens. The concept originated in the 1976 two-player arcade video game Blockade from Gremlin Industries, and the ease of implementation has led to hundreds of versions (some of which have the word snake or worm in the title) for many platforms. 1982's Tron arcade game, based on the film, includes snake gameplay for the single-player Light Cycles segment. After a variant was preloaded on Nokia mobile phones in 1998, there was a resurgence of interest in snake games as it found a larger audience..
 ![Screenshot from 2022-12-26 08-35-52](https://user-images.githubusercontent.com/90656786/209512705-a8f4b5a4-eab9-4077-acf8-f16af60ec561.png)
 
